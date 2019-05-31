@@ -5,11 +5,13 @@ If you're working on classification problem with your own dataset, or dataset th
 ### Main Features
 
 Extract class would partition your dataset into train, validation, and test csv
+
 TransformAndLoad class would Transform and consume your dataset efficiently
 
 ### Prerequisites
 
 Tested on Python 3.7.2
+
 Other versions might work given type checking is supported
 
 
